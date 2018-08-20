@@ -22,6 +22,8 @@
   font-size: large;
 }
 
+.container { width: 500px; height: 500px; background-color: snow; }
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
